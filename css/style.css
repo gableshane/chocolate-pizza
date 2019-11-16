@@ -75,10 +75,11 @@ footer{
 
 #van-pic{
   float: left;
-}
+} */
 
 #van-name{
   font-size: x-large;
+  padding-bottom: 10px;
 }
 
 button{
@@ -97,7 +98,10 @@ hr{
 }
 
 #notepad{
-  margin-left: 270px;
-  margin-right: 270px;
+  margin-left: 150px;
   z-index: -1;
+  position: absolute;
+}
+#vanessa {
+  margin-top: 100px;
 }
